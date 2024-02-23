@@ -1,4 +1,4 @@
-VLSI Design of Hamming Code Algorithm
+#VLSI Design of Hamming Code Algorithm
 Introduction
 
 In modern data communication systems, ensuring the integrity of transmitted data is crucial. The Hamming Code Algorithm provides a reliable method for error detection and correction, especially in environments prone to data corruption, such as electronic circuits deployed in critical industries like nuclear power plants.
